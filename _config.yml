@@ -16,12 +16,12 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
+  - {file: "index.html", Title: "Home", icon: home}
+  - {file: "README.md", Title: "Who", icon: address-card}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:ydehosko@duck.com"}
-  - {title: Mastodon, icon: users, url: "https://github.com/serolrom"}
+  - {title: Mastodon, icon: fa-users, url: "https://github.com/serolrom"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
