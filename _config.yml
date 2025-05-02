@@ -1,6 +1,7 @@
-title: "Drinkoffee"
-author: "Sergio's randomness"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+title: "serolrom - a new linux musician"
+author: "Sergio"
+description: ""
+#description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -17,7 +18,7 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: "Home"}
-  - {file: "README.md", title: "Who"}
+#  - {file: "README.md", title: "Who"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:ydehosko@duck.com"}
