@@ -1,3 +1,8 @@
+---
+title: "GitHub repo ready"
+layout: post
+---
+
 It seems that every little thing becomes a challenge...  
   
 I just wanted to interact with my GitHub pages repo (my blog) from Linux. git pull, do my thing, commit, push. Easy. Easy until the push thing. This triggered "The quest for the SSH". Yeah, quite a usual thing, daily business and all that, but it was not a two-minute thing for my first time setting up an SSH key.  
